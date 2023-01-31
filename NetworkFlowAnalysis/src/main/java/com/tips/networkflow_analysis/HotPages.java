@@ -1,6 +1,5 @@
 package com.tips.networkflow_analysis;
 
-import akka.pattern.Patterns;
 import com.tips.networkflow_analysis.beans.ApacheLogEvent;
 import com.tips.networkflow_analysis.beans.PageViewCount;
 import org.apache.commons.compress.utils.Lists;
